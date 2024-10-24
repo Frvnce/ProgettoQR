@@ -7,6 +7,10 @@ Questo semplice sito web mostra una frase ogni volta che viene aperta la pagina.
 - Mostra una frase a schermo ogni volta che la pagina viene caricata.
 - Le frasi possono essere personalizzate e cambiate facilmente.
 
+## Provami
+
+Puoi provare la demo del sito scansionando il QR code o cliccando su questo [link](https://frvnce.github.io/ProgettoQR/).
+
 ## Contributi
 
 Per modifiche o suggerimenti, puoi fare una pull request o aprire un'issue.
